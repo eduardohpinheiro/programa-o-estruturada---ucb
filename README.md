@@ -1,2 +1,2 @@
 # programação estruturada
-## aluno: Eduardo Pinheiro
+## códigos de: Eduardo Pinheiro
